@@ -1,9 +1,15 @@
-how to effin run this thing plus deps with venv:
+## setup
 
 ```sh
-python -m venv ee3315
-source ee3315/bin/activate
-# lalalala
-pip install numpy matplotlib
-deactivate
+conda create --name EES1 -c conda-forge python jupyterlab matplotlib pandas numpy
+```
+
+## run
+
+```sh
+# cd into respective lab nb directory
+conda activate EES1
+jupyter lab
+
+conda deactivate # to exit the conda env
 ```
