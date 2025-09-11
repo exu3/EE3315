@@ -1,7 +1,7 @@
 ## setup
 
 ```sh
-conda create --name EES1 -c conda-forge python jupyterlab matplotlib pandas numpy
+conda create --name EES1 -c conda-forge python jupyterlab matplotlib pandas numpy scipy
 ```
 
 ## run
