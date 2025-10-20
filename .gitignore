@@ -1,8 +1,7 @@
 ee3315/
 */.ipynb_checkpoints/*
 .ipynb_checkpoints/
-*/.virtual_documents/*
+*/.virtual_documents
 *.docx
 *.ipynb.layout
 *.pdf
-playground/*
