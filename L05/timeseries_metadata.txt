@@ -1,0 +1,8 @@
+Latitude (decimal degrees):	44.500
+Longitude (decimal degrees):	-73.200
+Elevation (m):	50
+Radiation database:	PVGIS-ERA5
+
+
+Slope: 44 deg. 
+Azimuth: 0 deg. 
